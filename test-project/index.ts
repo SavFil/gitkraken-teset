@@ -1,3 +1,5 @@
 type Fruit = 'Apple' | 'Banana'
 
-console.log("test");
+const fruit: Fruit = "Apple";
+
+console.log("fruit: ", fruit);
